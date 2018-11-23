@@ -1,3 +1,7 @@
+King Song Key Generator
+Jonathan Vasquez <jon@xyinn.org>
+GPLv3+
+
 Dependencies:
 Java 8
 
