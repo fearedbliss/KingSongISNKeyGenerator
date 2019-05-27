@@ -1,6 +1,6 @@
 King Song Key Generator
 Jonathan Vasquez <jon@xyinn.org>
-GPLv3+
+Apache License 2.0
 
 Dependencies:
 Java 8
